@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/whiskey_table/static/js/main.7b2ec6c8.js",
+    "static/media/whisky.png": "/whiskey_table/static/media/whisky.c8260eba1d66fe654b4c.png",
+    "index.html": "/whiskey_table/index.html",
+    "main.7b2ec6c8.js.map": "/whiskey_table/static/js/main.7b2ec6c8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7b2ec6c8.js"
+  ]
+}
