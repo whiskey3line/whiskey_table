@@ -1,10 +1,22 @@
 {
   "files": {
-    "main.js": "/whiskey_table/static/js/main.e0d20ff6.js",
+    "main.js": "/whiskey_table/static/js/main.4261d030.js",
     "static/media/달모어12년.png": "/whiskey_table/static/media/달모어12년.664538b79cc33b9fe9f4.png",
     "static/media/달모어시가몰트.png": "/whiskey_table/static/media/달모어시가몰트.d4cbf1e593cb630b2462.png",
     "static/media/달모어18년.png": "/whiskey_table/static/media/달모어18년.06972ce85bfd793b3d5b.png",
+    "static/media/롱로우21년.png": "/whiskey_table/static/media/롱로우21년.499129b0e6beef2b9773.png",
+    "static/media/더맥켈란15년더블오크.png": "/whiskey_table/static/media/더맥켈란15년더블오크.1853225c8da586cc8ae5.png",
+    "static/media/몰트락16년.png": "/whiskey_table/static/media/몰트락16년.9edd89270d44194803f0.png",
+    "static/media/글렌그란트15년.png": "/whiskey_table/static/media/글렌그란트15년.947a1746d856faae27f0.png",
     "static/media/글렌피딕15년.png": "/whiskey_table/static/media/글렌피딕15년.f031788457d83e15ca89.png",
+    "static/media/더글렌리벳15년.png": "/whiskey_table/static/media/더글렌리벳15년.9e9d2c154170e74f5acf.png",
+    "static/media/아란25년.png": "/whiskey_table/static/media/아란25년.d91c5ed1a6eea448d1ca.png",
+    "static/media/싱글톤15년SR2022.png": "/whiskey_table/static/media/싱글톤15년SR2022.6b142140bfd2005ac44f.png",
+    "static/media/싱글톤15년.png": "/whiskey_table/static/media/싱글톤15년.9a789a8e56d1d013482f.png",
+    "static/media/싱글톤12년.png": "/whiskey_table/static/media/싱글톤12년.fe7ce0cd300c3cbc6b3d.png",
+    "static/media/글렌모렌지오리지널.png": "/whiskey_table/static/media/글렌모렌지오리지널.29af8278205aec445f86.png",
+    "static/media/클라이넬리쉬12년SR2022.png": "/whiskey_table/static/media/클라이넬리쉬12년SR2022.112aaf707f7c19e148db.png",
+    "static/media/아란17년.png": "/whiskey_table/static/media/아란17년.04911eaf1bb180ad90cd.png",
     "static/media/달모어15년.png": "/whiskey_table/static/media/달모어15년.71a7082b3b282487d05f.png",
     "static/media/글렌피딕18년.png": "/whiskey_table/static/media/글렌피딕18년.942c61f17854a8d535ec.png",
     "static/media/글렌피딕12년.png": "/whiskey_table/static/media/글렌피딕12년.bbaa8dbe7873315374ee.png",
@@ -12,9 +24,9 @@
     "static/media/글렌피딕21년.png": "/whiskey_table/static/media/글렌피딕21년.d8c6070e4a428cc049c3.png",
     "static/media/whisky.png": "/whiskey_table/static/media/whisky.c8260eba1d66fe654b4c.png",
     "index.html": "/whiskey_table/index.html",
-    "main.e0d20ff6.js.map": "/whiskey_table/static/js/main.e0d20ff6.js.map"
+    "main.4261d030.js.map": "/whiskey_table/static/js/main.4261d030.js.map"
   },
   "entrypoints": [
-    "static/js/main.e0d20ff6.js"
+    "static/js/main.4261d030.js"
   ]
 }
