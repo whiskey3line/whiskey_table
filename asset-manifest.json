@@ -1,6 +1,7 @@
 {
   "files": {
-    "main.js": "/whiskey_table/static/js/main.7fc1fe69.js",
+    "main.js": "/whiskey_table/static/js/main.e19bc0e6.js",
+    "static/media/발베니14년위크오브피트.png": "/whiskey_table/static/media/발베니14년위크오브피트.fbc7743de11cbee42717.png",
     "static/media/달모어12년셰리셀렉트.png": "/whiskey_table/static/media/달모어12년셰리셀렉트.293c05fa4cacfcdc21b2.png",
     "static/media/아벨라워아브나흐\u0000#68.png": "/whiskey_table/static/media/아벨라워아브나흐#68.1c58789a4e0e3bcb7e73.png",
     "static/media/달모어12년.png": "/whiskey_table/static/media/달모어12년.664538b79cc33b9fe9f4.png",
@@ -21,33 +22,44 @@
     "static/media/카메론브릿지26년SR2022.png": "/whiskey_table/static/media/카메론브릿지26년SR2022.4d9f5cb1f23a3abc7295.png",
     "static/media/글렌그란트15년.png": "/whiskey_table/static/media/글렌그란트15년.947a1746d856faae27f0.png",
     "static/media/쉥크스2022.png": "/whiskey_table/static/media/쉥크스2022.ad9cc5c278a032c8afe3.png",
-    "static/media/글렌피딕15년.png": "/whiskey_table/static/media/글렌피딕15년.f031788457d83e15ca89.png",
     "static/media/오반10년SR2022.png": "/whiskey_table/static/media/오반10년SR2022.574890a22822d6f756d2.png",
     "static/media/더글렌리벳15년.png": "/whiskey_table/static/media/더글렌리벳15년.9e9d2c154170e74f5acf.png",
     "static/media/라가불린12년SR2019.png": "/whiskey_table/static/media/라가불린12년SR2019.c244a139c59f9abad5f1.png",
     "static/media/탈리스커11년SR2022.png": "/whiskey_table/static/media/탈리스커11년SR2022.8f9f6a718d3753d56432.png",
     "static/media/라가불린12년SR2018.png": "/whiskey_table/static/media/라가불린12년SR2018.2daa31db0e87e1e8f50b.png",
+    "static/media/발베니21년포트우드.png": "/whiskey_table/static/media/발베니21년포트우드.1e51e90d7d5ee618bb4a.png",
     "static/media/레이디글렌블레어아더9년.png": "/whiskey_table/static/media/레이디글렌블레어아더9년.c80930a971b6c0cea932.png",
     "static/media/아란25년.png": "/whiskey_table/static/media/아란25년.d91c5ed1a6eea448d1ca.png",
+    "static/media/발베니25년.png": "/whiskey_table/static/media/발베니25년.3b41b89bbcbf818ccd0f.png",
     "static/media/싱글톤15년SR2022.png": "/whiskey_table/static/media/싱글톤15년SR2022.6b142140bfd2005ac44f.png",
     "static/media/싱글톤15년.png": "/whiskey_table/static/media/싱글톤15년.9a789a8e56d1d013482f.png",
     "static/media/싱글톤12년.png": "/whiskey_table/static/media/싱글톤12년.fe7ce0cd300c3cbc6b3d.png",
     "static/media/글렌모렌지오리지널.png": "/whiskey_table/static/media/글렌모렌지오리지널.29af8278205aec445f86.png",
+    "static/media/발베니15년싱글배럴.png": "/whiskey_table/static/media/발베니15년싱글배럴.3fcd1f3c3adfc9901563.png",
     "static/media/클라이넬리쉬12년SR2022.png": "/whiskey_table/static/media/클라이넬리쉬12년SR2022.112aaf707f7c19e148db.png",
+    "static/media/발베니30년.png": "/whiskey_table/static/media/발베니30년.4f7647b009089b1058a8.png",
     "static/media/아란17년.png": "/whiskey_table/static/media/아란17년.04911eaf1bb180ad90cd.png",
+    "static/media/글렌피딕26년.png": "/whiskey_table/static/media/글렌피딕26년.cc0c393ef67380ed5946.png",
+    "static/media/글렌피딕23년.png": "/whiskey_table/static/media/글렌피딕23년.618c4b284b8965035c30.png",
+    "static/media/발베니12년아메리칸오크.png": "/whiskey_table/static/media/발베니12년아메리칸오크.e98e14d5c66ca2743c1b.png",
     "static/media/달모어15년.png": "/whiskey_table/static/media/달모어15년.71a7082b3b282487d05f.png",
     "static/media/글렌피딕18년.png": "/whiskey_table/static/media/글렌피딕18년.942c61f17854a8d535ec.png",
+    "static/media/발베니12년더블오크.png": "/whiskey_table/static/media/발베니12년더블오크.02ddb9985c7ff96a1a0b.png",
+    "static/media/글렌피딕21년.png": "/whiskey_table/static/media/글렌피딕21년.6071485571c2acfec118.png",
+    "static/media/발베니14년캐리비안캐스크.png": "/whiskey_table/static/media/발베니14년캐리비안캐스크.4eee2066f744353ecb6d.png",
     "static/media/달모어2007.png": "/whiskey_table/static/media/달모어2007.82a5628a82e47da29c76.png",
-    "static/media/글렌피딕12년.png": "/whiskey_table/static/media/글렌피딕12년.bbaa8dbe7873315374ee.png",
+    "static/media/글렌피딕12년.png": "/whiskey_table/static/media/글렌피딕12년.f895e285a52cb7f18259.png",
+    "static/media/글렌피딕15년.png": "/whiskey_table/static/media/글렌피딕15년.3ee54ba2098d418eda9c.png",
+    "static/media/발베니17년더블오크.png": "/whiskey_table/static/media/발베니17년더블오크.27a15ca84ecbc293347b.png",
+    "static/media/발베니21년세컨드로즈.png": "/whiskey_table/static/media/발베니21년세컨드로즈.18b7ca62c933ed8e1748.png",
     "static/media/달모어킹알렉산더3세.png": "/whiskey_table/static/media/달모어킹알렉산더3세.048a5365e958f2d3d900.png",
     "static/media/달위니15년.png": "/whiskey_table/static/media/달위니15년.748ce14132dda23d7c93.png",
     "static/media/더맥켈란12년셰리.png": "/whiskey_table/static/media/더맥켈란12년셰리.47c6068f2997545f1221.png",
-    "static/media/글렌피딕21년.png": "/whiskey_table/static/media/글렌피딕21년.d8c6070e4a428cc049c3.png",
     "static/media/whisky.png": "/whiskey_table/static/media/whisky.c8260eba1d66fe654b4c.png",
     "index.html": "/whiskey_table/index.html",
-    "main.7fc1fe69.js.map": "/whiskey_table/static/js/main.7fc1fe69.js.map"
+    "main.e19bc0e6.js.map": "/whiskey_table/static/js/main.e19bc0e6.js.map"
   },
   "entrypoints": [
-    "static/js/main.7fc1fe69.js"
+    "static/js/main.e19bc0e6.js"
   ]
 }
