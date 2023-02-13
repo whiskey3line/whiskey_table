@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "http://localhost:3000/static/js/main.c9aa8594.js",
+    "main.js": "http://localhost:3000/static/js/main.c7e4f310.js",
     "static/media/달모어25년.png": "http://localhost:3000/static/media/달모어25년.6be03e8e26be4850d490.png",
     "static/media/발베니14년위크오브피트.png": "http://localhost:3000/static/media/발베니14년위크오브피트.fbc7743de11cbee42717.png",
     "static/media/달모어12년셰리셀렉트.png": "http://localhost:3000/static/media/달모어12년셰리셀렉트.293c05fa4cacfcdc21b2.png",
@@ -74,9 +74,9 @@
     "static/media/달모어21년.png": "http://localhost:3000/static/media/달모어21년.27534b20af85e6f6ccae.png",
     "static/media/whisky.png": "http://localhost:3000/static/media/whisky.c8260eba1d66fe654b4c.png",
     "index.html": "http://localhost:3000/index.html",
-    "main.c9aa8594.js.map": "http://localhost:3000/static/js/main.c9aa8594.js.map"
+    "main.c7e4f310.js.map": "http://localhost:3000/static/js/main.c7e4f310.js.map"
   },
   "entrypoints": [
-    "static/js/main.c9aa8594.js"
+    "static/js/main.c7e4f310.js"
   ]
 }
