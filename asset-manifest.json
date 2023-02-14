@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/whiskey_table/static/js/main.cf455c56.js",
+    "main.js": "/whiskey_table/static/js/main.d4386e16.js",
     "static/media/달모어25년.png": "/whiskey_table/static/media/달모어25년.6be03e8e26be4850d490.png",
     "static/media/발베니14년위크오브피트.png": "/whiskey_table/static/media/발베니14년위크오브피트.fbc7743de11cbee42717.png",
     "static/media/달모어12년셰리셀렉트.png": "/whiskey_table/static/media/달모어12년셰리셀렉트.293c05fa4cacfcdc21b2.png",
@@ -79,9 +79,9 @@
     "static/media/글렌모레이1996산시바.png": "/whiskey_table/static/media/글렌모레이1996산시바.3ffe4be8671557fb0503.png",
     "static/media/whisky.png": "/whiskey_table/static/media/whisky.c8260eba1d66fe654b4c.png",
     "index.html": "/whiskey_table/index.html",
-    "main.cf455c56.js.map": "/whiskey_table/static/js/main.cf455c56.js.map"
+    "main.d4386e16.js.map": "/whiskey_table/static/js/main.d4386e16.js.map"
   },
   "entrypoints": [
-    "static/js/main.cf455c56.js"
+    "static/js/main.d4386e16.js"
   ]
 }
